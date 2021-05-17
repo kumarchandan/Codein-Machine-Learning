@@ -9,4 +9,4 @@
 | --- | -------- | -------- | --------- | --------- | --------- |
 | 1 | Clustering | Kmeans Algorithm | [KMeans](Clustering/Kmeans.ipynb) | | |
 | 2 | Ensemble | Ensemble based on voting technique | [Voting](Ensemble/ensemble_voting.ipynb) | | |
-
+| 3 | Classification | Titanic Dataset - [Kaggle](https://www.kaggle.com/c/titanic) | [Titanic Dataset](Classification/Titanic_Dataset.ipynb) | | |
